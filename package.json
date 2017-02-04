@@ -1,0 +1,25 @@
+{
+  "name": "vui-app",
+  "version": "0.0.1",
+  "description": "npm module that provides cross platform framework for creating vui applications.",
+  "main": "index.js",
+  "author": "Ilya Shubentsov",
+  "copyright": "Copyright 2017 Ilya Shubentsov",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/RationalAnimal/vui-app"
+  },
+  "dependencies": {
+    "vui-platforms": "^1.0.2"
+  },
+  "keywords": [
+    "vui",
+    "vui-app",
+    "app",
+    "crossplatform",
+    "cross platform",
+    "cross-platform",
+    "alexa"
+  ]
+}
